@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "organization": "yea ninja",
+    "products": [
+      "developers",
+      "pizza"
+    ],
+    "marketValue": "90%",
+    "address": "sangotedo",
+    "ceo": "cn",
+    "country": "Taiwan",
+    "noOfEmployees": 5,
+    "employees": [
+      "james bond",
+      "jackie chan"
+    ],
+    "createdAt": "2021-04-18T21:17:23.833Z",
+    "updatedAt": "2021-04-18T21:17:36.620Z"
+  }
+]
